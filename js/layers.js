@@ -28,7 +28,7 @@ addLayer("p", {
 
     upgrades: {
         11: {
-            title: "Numeric Explosion",
+            title: "Exponential Explosion",
             description: "Point gain is proportionial to prestige points.",
             cost: new Decimal(1),
         },

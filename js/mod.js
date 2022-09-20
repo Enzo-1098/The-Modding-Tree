@@ -13,13 +13,13 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
+	num: "0.1",
 	name: "Explosion Update",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
-	<h3>v0.0</h3><br>
-		- Added Numeric Explosion.`
+	<h3>v0.1</h3><br>
+		- Added Exponential Explosion.`
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 
